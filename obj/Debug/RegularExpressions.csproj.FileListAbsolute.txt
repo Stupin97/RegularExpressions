@@ -1,0 +1,8 @@
+C:\Users\Илья\source\repos\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\Users\Илья\source\repos\RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\Users\Илья\source\repos\RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\Users\Илья\source\repos\RegularExpressions\obj\Debug\RegularExpressions.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\RegularExpressions\obj\Debug\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\Илья\source\repos\RegularExpressions\obj\Debug\RegularExpressions.pdb
+C:\Users\Илья\source\repos\RegularExpressions\bin\Debug\TextFile.txt

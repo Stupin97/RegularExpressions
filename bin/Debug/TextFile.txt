@@ -1,0 +1,5 @@
+﻿float[] id   , i,    ghg;
+double doub;
+int first ,      second     ,@third,
+fourth; int?@_first,_second, _thrid;    Decimal    ?    __, @int, hghfhfh, _hjh;
+System.Object [][ ,,,, ,,, ] sff  ,@int_, @string  , _sdsds
